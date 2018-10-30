@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/calc/lib/add.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/calc/lib/devide.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/加减乘除.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/处理成绩.js" charset="UTF-8" />
+  </component>
+</project>
